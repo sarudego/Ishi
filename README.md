@@ -1,1 +1,3 @@
-# Amy
+# Ishi
+
+Will be a virtual assistant with AI for home. Able to control lights, windows, temperature... 
