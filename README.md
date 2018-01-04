@@ -1,3 +1,12 @@
 # Ishi
 
-Will be a virtual assistant with AI for home. Able to control lights, windows, temperature... 
+This project will contain my work on the creation of a virtual assistant under artificial intelligence, including recognition with RFID.
+
+**Requeriments:**
+  Speech Recognition
+  NLP
+  AI library
+  Python
+  RFID Recognition
+  ...
+
