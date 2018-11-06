@@ -1,0 +1,29 @@
+Cloud Services:
+-DialogFlow NLP
+-Google Cloud Platform
+-PaaS(Glitch.com)
+-Node RED
+-Other...
+
+Connections:
+-Discord with RED
+-RED with NLP
+-NLP with RED
+-RED with APIs externas
+
+Training bot:
+-Intents and responses
+-User cases
+-Configure fulfillment
+-Create Entitys
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+https://jasperproject.github.io/
+
+Raspbian + Jasper
+
+RaspiPi2-3
+system audio input and output (amplifier, speaker, microphone)
+
+Speech motor --> Google STT > Wit.ai STT
+
+TTS engine --> eSpeak > Google TTS
+
+
+
+
+
+
+
